@@ -1,6 +1,6 @@
-package Ex3;
+package Exercise3;
 
-import Ex1.Employee;
+import Exercise1.Employee;
 
 import java.util.Scanner;
 

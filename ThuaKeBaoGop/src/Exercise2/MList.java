@@ -1,8 +1,8 @@
-package Ex2;
+package Exercise2;
 
-import Ex1.Employee;
-import Ex1.People;
-import Ex1.Student;
+import Exercise1.Employee;
+import Exercise1.People;
+import Exercise1.Student;
 
 import java.util.ArrayList;
 
